@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.4">
   <diagram name="Страница — 1" id="sjX6we8WSBwKFclhdS3Y">
-    <mxGraphModel dx="3708" dy="2323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="3286" dy="2098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -766,8 +766,8 @@
         <mxCell id="sMY4QTTRwCRsrDG5eZQJ-248" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Вход в аккаунт&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;администратора&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-660" y="-787.5" width="147" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="sMY4QTTRwCRsrDG5eZQJ-252" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-336" y="-1087" width="552" height="687" as="geometry" />
+        <mxCell id="sMY4QTTRwCRsrDG5eZQJ-252" value="С" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1347" y="-1108" width="895" height="844" as="geometry" />
         </mxCell>
         <mxCell id="sMY4QTTRwCRsrDG5eZQJ-253" value="&lt;font&gt;Вход в аккаунт&lt;/font&gt;&lt;div&gt;&lt;font&gt;пользователя&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="-1148" y="-551" width="147" height="88" as="geometry" />
@@ -912,6 +912,9 @@
             <mxPoint x="-1111" y="-545" as="sourcePoint" />
             <mxPoint x="-1166" y="-457" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sMY4QTTRwCRsrDG5eZQJ-287" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Система&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-921" y="-1079" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
